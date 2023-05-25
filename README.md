@@ -14,4 +14,4 @@ If you are interested in quality web3 dev/security content, consider checking my
 ## Public Contest findings
 | Name | Link |
 | ---- | ---- |
-|      |      |
+|      |  [Link](./Contests/01.md)    |
