@@ -9,7 +9,11 @@ If you are interested in quality web3 dev/security content, consider checking my
 
 | Project | Report |
 | ------- | ------ |
-|         |        |
+| Stoa.Money      |   [Source]()     |
+| SpartaDEX - Airdrop & Lockdrop | [Source]() |
+| TigrisTrade | [Source]() |
+| SprataDEX - Launchpad | [Source]() |
+| ZKTsunami | [Source]() |
 
 ## Public Contest findings
 | Name |  |
