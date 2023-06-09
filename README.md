@@ -9,26 +9,12 @@ If you are interested in quality web3 dev/security content, consider checking my
 
 | Project | Report |
 | ------- | ------ |
-| Stoa.Money      |   [Source]()     |
-| SpartaDEX - Airdrop & Lockdrop | [Source]() |
-| TigrisTrade | [Source]() |
-| SprataDEX - Launchpad | [Source]() |
-| ZKTsunami | [Source]() |
+| Cofi      |   [Source](./Audits/cofi.md)     |
+| SpartaDEX - Airdrop & Lockdrop | [Source](./Audits/sparta-airdrop-lockdrop.md) |
+| TigrisTrade - Options | [Source](./Audits/tigris-options.md) |
+| SprataDEX - Launchpad | [Source](./Audits/sparta-launchpad.md) |
+| ZKTsunami | [Source](./Audits/zktsunami.md) |
 
 ## Public Contest findings
 | Name |  |
 | ---- | ---- |
-| Adding invalid derivative contracts will break the protocol     |  [Source](./Contests/01.md)    |
-| Paused dependencies can render the contract inoperable | [Source](./Contests/02.md) | 
-| Fluctuations in SfrxEth derivative price with Curve's Oracle | [Source](./Contests/03.md) |
-| Exploitable price manipulation vulnerability in SafEth staking | [Source](./Contests/04.md) |
-| ` _decreaseCurrentMinted` is using the wrong parameter, which will practically break the whole protocol | [Source](./Contests/05.md) |
-| Poor data validation in CustomPriceOracle/GLPriceORacle can lead to severe consequences | [Source](./Contests/06.md) |
-| Front running updatePrice can be exploited to generate rewards even when users are liquidatable and avoid getting liquidated | [Source](./Contests/07.md) |
-| The vault won't work with less than 18 decimals | [Source](./Contests/08.md) |
-| Accounting error in `_disburseTau` can lead to inflated rewards | [Source](./Contests/09.md) |
-| The GLPPriceOracle used by the GMXYieldAdapter vault does not have a deviation threshold and does not have heartbeat checks | [Source](./Contests/10.md) |
-| getRate() time difference can return 0 | [Source](./Contests/11.md) |
-| If a token's oracle goes down or price falls to zero, liquidations will be frozen | [Source](./Contests/12.md) |
-| Missing checks for whether Arbitrum Sequencer is active | [Source](./Contests/13.md) |
-
