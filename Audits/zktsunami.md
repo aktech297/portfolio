@@ -9,7 +9,7 @@
 
 # About ZKTsunami
 
-ZKTsunami is a ZKSnark who claims to provide ZK-ANONSNARK powered transactional anonymity at your fingertips. Zcash was the first to implement and apply ZK-SNARK in the decentralized cryptocurrency. The relatively costly proof generation further reduces the likelihood of its adoption in practice. 
+ZKTsunami is a ZKSnark who claims to provide ZK-ANONSNARK powered transactional anonymity at your fingertips.
 
 ZKTsunami implements and integrates the state-of-the-art setup-free zero-knowledge proof protocol to enable trustless anonymous payment for smart contract platforms.
 
