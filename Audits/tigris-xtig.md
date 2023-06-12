@@ -8,7 +8,7 @@
 
 # About Tigris Trade
 
-Tigris is a leveraged trading platform that utilizes price data signed by oracles off-chain to provide atomic trades and real-time pair prices.
+[Tigris](https://app.tigris.trade/) is a leveraged trading platform that utilizes price data signed by oracles off-chain to provide atomic trades and real-time pair prices.
 
 Open positions are minted as NFTs, making them transferable. Tigris is governed by TIG token holders.
 
