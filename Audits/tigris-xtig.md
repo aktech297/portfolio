@@ -51,7 +51,7 @@ The following contracts were in scope of the audit:
 | -------------- | ---- |
 | xTig.sol  | 259  |
 | ---      | --- |
-| Total:        | 648     |
+| Total:        | 259     |
 
 
 NSLOC stands for 'Normalized Source Code', which is a custom measurement I use (among others) when evaluating the complexity of a codebase.
