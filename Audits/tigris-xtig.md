@@ -73,7 +73,7 @@ The audited contracts contain **2 minor** issues:
 
 # Findings
 
-## Minor risk findings (1)
+## Minor risk findings (2)
 
 ### 1.  Whitelisting Reward Tokens without an unwhitelisting mechanism ![](https://img.shields.io/badge/-Minor-yellow)
 
