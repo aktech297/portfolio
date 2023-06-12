@@ -10,16 +10,15 @@
 
 # About Tigris
 
-[Tigris](https://app.tigris.trade/) is a leveraged trading platform that utilizes price data signed by oracles off-chain to provide atomic trades and real-time pair prices.
+Tigris is a leveraged trading platform that utilizes price data signed by oracles off-chain to provide atomic trades and real-time pair prices.
 
-Open positions are minted as NFTs, making them transferable. Tigris is governed by Governance NFT holders.
+Open positions are minted as NFTs, making them transferable. Tigris is governed by TIG token holders.
 
 The oracle aggregates real-time spot market prices from CEXs and sign them. Traders include the price data and signature in the trade txs.
 
-For people that want to provide liquidity, they can lock up tigAsset tokens (such as tigUSD,
-received by depositing the appropriate token into the stablevault) for up to 365 days. 
+For people that want to provide liquidity, they can lock up tigAsset tokens (such as tigUSD, received by depositing the appropriate token into the stablevault) for up to 365 days.
 
-They will receive trading fees through an allocation of Governance NFTs, which get distributed based on amount locked and lock period.
+They receive 30% of trading fees, which are distributed based on amount locked and lock period.
 
 # Table of Contents
 
