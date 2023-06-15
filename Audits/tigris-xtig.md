@@ -18,6 +18,10 @@ For people that want to provide liquidity, they can lock up tigAsset tokens (suc
 
 They receive 30% of trading fees, which are distributed based on amount locked and lock period.
 
+## Tigris Trade about bytes032
+
+![](https://github.com/bytes-gang/MaiaDAO/assets/122114333/15ae73fd-6c99-4ef0-ba68-2df7c2042edf)
+
 # Table of Contents
 
 - [Scope](#scope)

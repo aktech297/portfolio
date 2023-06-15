@@ -12,6 +12,10 @@
 
 SpartaDEX Lockdrop is their strategy of launching the DEX with the goal to kick-start the TVL (liquidity) by incentivizing those who will transfer and lock their LP in SpartaDEX.
 
+## SpartaDEX about bytes032
+
+![](https://github.com/bytes032/portfolio/assets/122114333/df6a04c9-27f1-400a-998f-f09a211f2dc4)
+
 # Table of Contents
 
 - [Scope](#scope)

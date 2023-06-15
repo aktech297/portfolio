@@ -17,6 +17,10 @@ It's a launchpad on which the users will be able to grab an allocation in top Ar
 
 It gives a huge utility to both Revealed Spartans NFTs and SPARTA token holders. Each fundraising will have a dedicated, pre-public round only for NFT holders and WL, where each of the NFTs will translate into a part in the allocation.
 
+## SpartaDEX about bytes032
+
+![](https://github.com/bytes032/portfolio/assets/122114333/df6a04c9-27f1-400a-998f-f09a211f2dc4)
+
 
 # Table of Contents
 
