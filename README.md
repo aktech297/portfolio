@@ -15,8 +15,5 @@ If you are interested in quality web3 dev/security content, consider checking my
 | SprataDEX - Launchpad | [Source](./Audits/sparta-launchpad.md) |
 | ZKTsunami | [Source](./Audits/zktsunami.md) |
 | TigrisTrade - xTig | [Source](./Audits/tigris-xtig.md) | 
-| Escrow Swap | [Source](./Audits/escrow-swap.md)
-
-## Public Contest findings
-| Name |  |
-| ---- | ---- |
+| Escrow Swap | [Source](./Audits/escrow-swap.md) | 
+| Ordinals Bridge | [Source](./Audits/ordinals-bridge.md) | 
